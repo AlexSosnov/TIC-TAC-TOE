@@ -81,7 +81,7 @@ public class Game {
                 System.out.println("Sorry, drow!");
                 break;
             }
-            break;
+
         }
         System.out.println("GAME OVER!");
     }
